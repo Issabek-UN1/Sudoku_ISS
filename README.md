@@ -1,3 +1,4 @@
+ПРОИЗОШЛА ОШИБКА ПРИ ЗАПОЛНЕНИИ ФОРМЫ ПРОВЕРИТЬ ПРОЕКТ МОЖНО ПО ЖДАННОЙ ССЫЛКЕ https://sudoku-iss-9n62-ceuu128hv-issabek-s-projects.vercel.app/
 # Brain Morning Sudoku
 
 > Утреннее Судоку для подготовки мозга — startup-ready прототип с AI Coach, Daily Challenge и городским рейтингом.
